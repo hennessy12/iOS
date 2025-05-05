@@ -28,19 +28,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 
 
-## App Brainstorming (Step 4
+## App Brainstorming (Step 4)
 
-Wechat
+I like: Wechat
 Easy to form groups and initiate activties in the group
 Easy to mute and minimize groups
 
-Spotify
+I also like: Spotify
 Easy to set up different list
 
-Google Map
+My favoriate: Google Map
 Accurate and can use without internet 
 
-The APP I Want to Build
+The APP I Want to Build:
 An app that can tell you which credit card to use at where, for example, when I'm standing in front the counter of a rental car company, the app can tell me that among all the credit cards that I have, I should use my Amex Plantium which has the best benefit for rental cars. 
 
 ## Notes
